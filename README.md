@@ -1,4 +1,4 @@
-# Depression_tabagisme
+# Depression et tabagisme
 
 
 L'objectif de la présente étude est d'étudier la relation causale entre tabagisme et santé mentale. 
